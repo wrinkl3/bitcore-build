@@ -1,6 +1,6 @@
 {
-  "name": "bitcore-build",
-  "version": "0.8.0",
+  "name": "solarcore-build",
+  "version": "0.1.0",
   "description": "A helper for common tasks to build bitcore modules'",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/bitpay/bitcore-build"
+    "url": "git://github.com/wrinkl3/solarcore-build"
   },
   "keywords": [
-    "bitcore"
+    "solarcore"
   ],
   "contributors": [
     {
@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bitpay/bitcore-build/issues"
+    "url": "https://github.com/wrinkl3/solarcore-build/issues"
   },
-  "homepage": "https://github.com/bitpay/bitcore-build",
+  "homepage": "https://github.com/wrinkl3/solarcore-build",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
